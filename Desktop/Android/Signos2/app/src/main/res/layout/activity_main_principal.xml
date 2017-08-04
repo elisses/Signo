@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main_principal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.elisvieira.signos.MainActivityPrincipal">
+
+    <TextView
+        android:text="@string/mes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textMes"
+        android:layout_marginTop="47dp"
+        android:layout_below="@+id/spinnerDia"
+        android:layout_alignStart="@+id/spinnerMes" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:id="@+id/spinnerMes"
+        android:layout_alignTop="@+id/textMes"
+        android:layout_alignEnd="@+id/spinnerDia"
+        android:layout_alignStart="@+id/spinnerDia" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:id="@+id/spinnerDia"
+        android:layout_alignTop="@+id/textDia"
+        android:layout_alignStart="@+id/textDia"
+        android:layout_alignEnd="@+id/imageView" />
+
+    <Button
+        android:text="@string/botao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonEnviar"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/spinnerMes"
+        android:layout_alignEnd="@+id/spinnerMes" />
+
+    <TextView
+        android:text="@string/dia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textDia"
+        android:layout_marginTop="70dp"
+        android:layout_below="@+id/imageView"
+        android:layout_alignStart="@+id/imageView" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/signos"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

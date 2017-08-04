@@ -1,0 +1,68 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="signos" values="config.save.policy.STASH,config.warn.about.crlf.enabled,data.remotes.in.project.0,data.remote.branches.count.0,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.0,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1501175460970" />
+      <project id="CRUDEexample" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1493054866073" />
+      <project id="Signos2" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH" collectionTime="1501795283594" />
+      <project id="Signos" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1501175235285" />
+      <project id="Projeto" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1493054490882" />
+      <project id="android" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1485446897066" />
+    </group>
+    <group name="vcs">
+      <project id="signos" values="Git" collectionTime="1501175460907" />
+    </group>
+    <group name="file-type">
+      <project id="signos" values="IDEA_MODULE" collectionTime="1501175460970" />
+      <project id="CRUDEexample" values="IDEA_MODULE,CLASS,AIDL,Images,PLAIN_TEXT,ProGuard File,UNKNOWN,Groovy,Properties,APK,ARCHIVE,XML,JAVA" collectionTime="1493054866008" />
+      <project id="Signos2" values="UNKNOWN,Images,AIDL,XML,Groovy,ARCHIVE,IDEA_MODULE,ProGuard File,JAVA,Properties,PLAIN_TEXT" collectionTime="1501795283593" />
+      <project id="Signos" values="ARCHIVE,Properties,UNKNOWN,AIDL,JAVA,PLAIN_TEXT,Groovy,IDEA_MODULE,ProGuard File,Images,XML" collectionTime="1501175235223" />
+      <project id="Projeto" values="JAVA,IDEA_MODULE,AIDL,ProGuard File,Groovy,UNKNOWN,Images,PLAIN_TEXT,Properties,XML,ARCHIVE" collectionTime="1493054490821" />
+      <project id="android" values="HTML,Groovy,YAML,UNKNOWN,IDEA_MODULE,AIDL,CLASS,CSS,DTD,PLAIN_TEXT,ARCHIVE,JavaScript,Images,XML,JSON,JAVA,Properties" collectionTime="1485446897051" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="Projeto" values="AndroidRunConfigurationType" collectionTime="1493054490720" />
+      <project id="Signos" values="AndroidRunConfigurationType" collectionTime="1501175235019" />
+      <project id="android" values="AndroidRunConfigurationType" collectionTime="1485446896988" />
+      <project id="signos" values="AndroidRunConfigurationType" collectionTime="1501175460907" />
+      <project id="Signos2" values="AndroidRunConfigurationType" collectionTime="1501795283535" />
+    </group>
+    <group name="language-level">
+      <project id="signos" values="JDK_1_8,JDK_1_7" collectionTime="1501175460970" />
+      <project id="CRUDEexample" values="JDK_1_3,JDK_1_7" collectionTime="1493054866009" />
+      <project id="Signos2" values="JDK_1_7" collectionTime="1501795283593" />
+      <project id="Signos" values="JDK_1_7,JDK_1_8" collectionTime="1501175235285" />
+      <project id="Projeto" values="JDK_1_7" collectionTime="1493054490881" />
+      <project id="android" values="JDK_1_6" collectionTime="1485446897066" />
+    </group>
+    <group name="frameworks">
+      <project id="signos" values="android,android-gradle,java-gradle" collectionTime="1501175460907" />
+      <project id="CRUDEexample" values="android,android-gradle,java-gradle" collectionTime="1493054865975" />
+      <project id="Signos2" values="android,android-gradle,java-gradle" collectionTime="1501795283535" />
+      <project id="Signos" values="java-gradle,android-gradle,android" collectionTime="1501175235019" />
+      <project id="Projeto" values="android,android-gradle,java-gradle" collectionTime="1493054490719" />
+      <project id="android" values="android-gradle,android" collectionTime="1485446896988" />
+    </group>
+    <group name="module type">
+      <project id="signos" values="JAVA_MODULE" collectionTime="1501175460907" />
+      <project id="CRUDEexample" values="JAVA_MODULE" collectionTime="1493054865975" />
+      <project id="Signos2" values="JAVA_MODULE" collectionTime="1501795283535" />
+      <project id="Signos" values="JAVA_MODULE" collectionTime="1501175235019" />
+      <project id="Projeto" values="JAVA_MODULE" collectionTime="1493054490720" />
+      <project id="android" values="JAVA_MODULE" collectionTime="1485446896988" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="8" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="62" />
+      <entry feature="ide.settings.Android_SDK" count="1" />
+      <entry feature="ideaapp.started" count="18" />
+      <entry feature="terminal.win" count="5" />
+      <entry feature="tips.of.the.day.next" count="47" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="1" />
+    </counts>
+  </component>
+</application>
